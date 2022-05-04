@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .idea/
 experiments/
+apex/
+nyudepthv2.tar.gz
+nyudepthv2/
+toolbox_nyu_depth_v2/
+Deformable-Convolution-V2-PyTorch/
